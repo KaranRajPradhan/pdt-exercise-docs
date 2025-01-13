@@ -8,7 +8,7 @@ It is intended for student use to track markdown documentation for each lab modu
 
 ### Project Objectives
 
-The [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity) research project is intended to be used with this [pdt-exercise-docs](https://github.com/programming-digital-twins/pdt-exercise-docs) repository has three primary objectives:
+The [LabBenchStudios-PDT-Unity](https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity) research project is intended to be used with this [pdt-exercise-docs](https://github.com/programming-digital-twins/pdt-exercise-docs) repository and has three primary objectives:
 
 (1) Build a largely F/OSS Digital Twin framework that can work with other [Programming Digital Twins projects](https://github.com/programming-digital-twins) and their repositories to sync live data, DTDL models, and a JSON-based constraint mapping layer, and render within a COTS physics sim engine (e.g., Unity 6).
 
