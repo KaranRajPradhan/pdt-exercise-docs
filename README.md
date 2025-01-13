@@ -1,6 +1,6 @@
 # pdt-exercise-docs
 
-This repository contains lab module directory structures and sample markdown files for use with the [Programming Digital Twins Kanban Board]() exercises.
+This repository contains lab module directory structures and sample markdown files for use with the [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1) exercises.
 
 It is intended for student use to track markdown documentation for each lab module and to store relevant lab module configuration files (i.e., for the Edge Device App, or EDA).
 
