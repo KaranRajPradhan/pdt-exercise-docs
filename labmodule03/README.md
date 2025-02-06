@@ -20,7 +20,7 @@ N/A
 ### Design Diagram(s)
 
 INSTRUCTIONS: Include one or more design diagram(s) representing your solution.
-
+![CFW](../files/CFW.png)
 
 ### Specific Features
 
