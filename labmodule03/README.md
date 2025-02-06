@@ -10,11 +10,13 @@ Be sure to implement all the requirements listed at [PDT-INF-03-001 - Lab Module
 INSTRUCTIONS: Describe, in your own words, the high-level functionality of this lab module by answering the questions listed below.
 
 What does your implementation do? 
-The LabBenchStudios PDT Unity Library was imported to the BuildingDigitalTwins Unity project as a package and some unmutable prefab components were tested. 
+
+The LabBenchStudios-PDT-Unity Library was imported to the BuildingDigitalTwins Unity project as a package and some unmutable prefab components were tested. The Telemetry integration with EDA needs to be done to have data coming into the DTA. Basic scene was created.
 
 
 How does your implementation work?
-N/A
+
+For the duration of the course, the library is provided to be able to use some prefabs and integration. We will use these models to efficiently learn the concepts of Digital Twins.
 
 
 ### Design Diagram(s)
