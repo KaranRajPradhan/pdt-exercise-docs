@@ -18,7 +18,7 @@ N/a
 ### Design Diagram(s)
 
 INSTRUCTIONS: Include one or more design diagram(s) representing your solution.
-![DTA](../files/DTA)
+![DTA](../files/DTA.png)
 
 ### Specific Features
 
