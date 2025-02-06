@@ -22,7 +22,7 @@ How does your implementation work?
 
 INSTRUCTIONS: Include one or more design diagram(s) representing your solution.
 
-![EDA](../files/EDA.png)
+![DTA](../files/DTA.png)
 
 
 ### Specific Features
