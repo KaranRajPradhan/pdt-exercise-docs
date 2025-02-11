@@ -44,10 +44,10 @@ sysDataBucket     = pdt-sys-data
 [EdgeDevice]
 deviceID = edgedevice001
 deviceLocationID = edgedevice001
-enableSimulator  = False
+enableSimulator  = True
 enableEmulator   = False
 enableSenseHAT   = False
-enableMqttClient = False
+enableMqttClient = True
 enableTsdbClient = False
 enablePowerGeneration = False
 enableSystemPerformance = False
