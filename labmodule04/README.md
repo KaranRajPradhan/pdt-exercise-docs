@@ -17,8 +17,7 @@ How does your implementation work?
 
 ### Design Diagram(s)
 
-INSTRUCTIONS: Include one or more design diagram(s) representing your solution.
-
+![MQTT](../files/MQTT.png)
 
 ### Specific Features
 
