@@ -92,14 +92,14 @@ triggerHvacTempCeiling   = 20.0
 # wind turbine specific properties
 [Settings.WindTurbine]
 pollCycleSecs = 5
-enableOperation = True
+enableOperation = False
 enablePowerGenerationSim = True
 enableCommandName = enableWindTurbine
 
 # factory workcell specific properties
 [Settings.FactoryWorkcell]
 pollCycleSecs = 5
-enableOperation = True
+enableOperation = False
 
 name = TestWorkcellA
 typeCategoryID = 12000

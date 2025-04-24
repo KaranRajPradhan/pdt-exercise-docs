@@ -51,7 +51,7 @@ enableMsgQueue   = True
 enableSystemPerformance = True
 enableActuation = True
 enableSensing = True
-enableSimEngineUpdates = True
+enableSimEngineUpdates = False
 sendEventDisplayUpdates = False
 updateDisplayOnActuation = True
 useDataGenerationSettings = True
@@ -66,7 +66,7 @@ testEmptyApp     = False
 
 # system performance specific properties
 [Settings.SystemPerformance]
-enableOperation = True
+enableOperation = False
 pollCycleSecs = 5
 
 # environmental sim specific properties
@@ -75,8 +75,8 @@ enableOperation = True
 pollCycleSecs = 5
 
 # only one of the three should be True
-enableSimulator = False
-enableEmulator = True
+enableSimulator = True
+enableEmulator = False
 enableSenseHAT = False
 
 humiditySimFloor   =   35.0
@@ -92,14 +92,14 @@ triggerHvacTempCeiling   = 20.0
 # wind turbine specific properties
 [Settings.WindTurbine]
 pollCycleSecs = 5
-enableOperation = True
+enableOperation = False
 enablePowerGenerationSim = True
 enableCommandName = enableWindTurbine
 
 # factory workcell specific properties
 [Settings.FactoryWorkcell]
 pollCycleSecs = 5
-enableOperation = True
+enableOperation = False
 
 name = TestWorkcellA
 typeCategoryID = 12000
