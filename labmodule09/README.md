@@ -17,7 +17,7 @@ How does your implementation work?
 
 ### Design Diagram(s)
 
-![DTFlow2](../files/001.mp4)
+![](../files/001_compressed.mp4)
 
 ### Specific Features
 
