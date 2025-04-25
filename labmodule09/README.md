@@ -18,6 +18,8 @@ How does your implementation work?
 ### Design Diagram(s)
 
 ![Youtube Link](https://youtu.be/CoKWFc86bqA)
+[![Youtube Link](https://youtu.be/CoKWFc86bqA/0.jpg)](https://youtu.be/CoKWFc86bqA)
+
 
 ### Specific Features
 
