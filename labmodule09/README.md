@@ -17,7 +17,7 @@ How does your implementation work?
 
 ### Design Diagram(s)
 
-![](../files/001_compressed.mp4)
+![Youtube Link](https://youtu.be/CoKWFc86bqA)
 
 ### Specific Features
 
