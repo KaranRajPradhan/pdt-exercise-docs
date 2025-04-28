@@ -71,12 +71,12 @@ pollCycleSecs = 5
 
 # environmental sim specific properties
 [Settings.Environmental]
-enableOperation = False
+enableOperation = True
 pollCycleSecs = 5
 
 # only one of the three should be True
-enableSimulator = False
-enableEmulator = True
+enableSimulator = True
+enableEmulator = False
 enableSenseHAT = False
 
 humiditySimFloor   =   35.0
@@ -92,7 +92,7 @@ triggerHvacTempCeiling   = 20.0
 # wind turbine specific properties
 [Settings.WindTurbine]
 pollCycleSecs = 5
-enableOperation = True
+enableOperation = False
 enablePowerGenerationSim = True
 enableCommandName = enableWindTurbine
 

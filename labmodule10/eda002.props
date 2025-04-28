@@ -51,7 +51,7 @@ enableMsgQueue   = True
 enableSystemPerformance = True
 enableActuation = True
 enableSensing = True
-enableSimEngineUpdates = False
+enableSimEngineUpdates = True
 sendEventDisplayUpdates = False
 updateDisplayOnActuation = True
 useDataGenerationSettings = True
@@ -72,7 +72,7 @@ pollCycleSecs = 5
 # environmental sim specific properties
 [Settings.Environmental]
 enableOperation = True
-pollCycleSecs = 5
+pollCycleSecs = 2
 
 # only one of the three should be True
 enableSimulator = True
